@@ -6,3 +6,5 @@ langchain
 langchain_openai
 langchain_community
 faiss-cpu
+PYPDF2
+python-docx
